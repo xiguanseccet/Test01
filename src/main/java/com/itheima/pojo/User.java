@@ -9,6 +9,9 @@ package com.itheima.pojo;
 
 
 public class User {
+    public static void main(String[] args) {
+
+    }
     private String username;
     private Integer age;
 }
